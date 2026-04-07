@@ -20,3 +20,6 @@ Frontend Developer en formación | HTML, CSS, JS | React en progreso | Construye
 - LinkedIn: www.linkedin.com/in/marcia-katerine-baquero-ruiz-4583293b8 
 - Email: marciabaquero322@gmail.com 
 
+## 📊 GitHub Stats
+![Marcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical)
+
