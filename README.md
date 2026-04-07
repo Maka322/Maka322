@@ -17,6 +17,6 @@ Frontend Developer en formación | HTML, CSS, JS | React en progreso | Construye
 - SENA – Tecnólogo en Programación de Software (abril 2026)  
 
 ## 📬 Contacto
-- LinkedIn: [tu enlace aquí]  
-- Email: [tu correo aquí]  
+- LinkedIn: www.linkedin.com/in/marcia-katerine-baquero-ruiz-4583293b8 
+- Email: marciabaquero322@gmail.com 
 
