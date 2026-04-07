@@ -2,6 +2,7 @@
   <img src="./Marcia-Katerine-Baquero-Ruiz.png" alt="Banner" width="100%" />
 </p>
 
+
 ## 👩‍💻 About Me
 Frontend Developer en formación | Construyendo interfaces con propósito  
 
