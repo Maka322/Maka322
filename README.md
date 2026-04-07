@@ -29,7 +29,8 @@ Frontend Developer en formación | Construyendo interfaces con propósito
 
 
 ## 👀 Visitas
-![Visitas](https://komarev.com/ghpvc/?username=TUUSUARIO&color=blue)
+![Visitas](https://komarev.com/ghpvc/?username=MaKa322&color=blue)
+
 
 
 
