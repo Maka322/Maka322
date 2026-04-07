@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner" />
+  <img src="./tarjeta.png" alt="Banner" />
 </p>
+
 [Banner](./assets/banner.png)
 
 ## 👩‍💻 About Me
