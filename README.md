@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Marcia-Katerine-Baquero-Ruiz.png" alt="Banner" width="1200" height="400" />
+  <img src="./Marcia-Katerine-Baquero-Ruiz.png" alt="Banner" width="100%" />
 </p>
 
 ## 👩‍💻 About Me
