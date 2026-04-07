@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./tarjeta.png" alt="Banner" />
+  <img src="./Marcia-Katerine-Baquero-Ruiz.png" alt="Banner" width="1200" height="400" />
 </p>
-
-[Banner](./assets/banner.png)
 
 ## 👩‍💻 About Me
 Frontend Developer en formación | Construyendo interfaces con propósito  
