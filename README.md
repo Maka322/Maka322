@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👩‍💻 About Me
+Frontend Developer en formación | HTML, CSS, JS | React en progreso | Construyendo interfaces con propósito  
 
-<!--
-**Maka322/Maka322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
+- HTML5  
+- CSS3  
+- JavaScript  
+- React (aprendiendo)  
+- Git & GitHub  
 
-Here are some ideas to get you started:
+## 📂 Projects
+- Task Manager JS → App para organizar tareas  
+- Portfolio Web → Sitio personal responsive  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Learning Path
+- Bootcamp Generation Full-Stack Developer Jr. con Java (2026)  
+- SENA – Tecnólogo en Programación de Software (abril 2026)  
+
+## 📬 Contacto
+- LinkedIn: [tu enlace aquí]  
+- Email: [tu correo aquí]  
+
