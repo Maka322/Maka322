@@ -1,3 +1,5 @@
+[Banner](./assets/banner.png)
+
 ## 👩‍💻 About Me
 Frontend Developer en formación | Construyendo interfaces con propósito  
 
