@@ -21,5 +21,9 @@ Frontend Developer en formación | HTML, CSS, JS | React en progreso | Construye
 - Email: marciabaquero322@gmail.com 
 
 ## 📊 GitHub Stats
-![Marcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical)
+[Marcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical)
+
+## 📈 Top Languages
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical)
+
 
