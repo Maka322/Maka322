@@ -22,8 +22,8 @@ Frontend Developer en formación | Construyendo interfaces con propósito
 - SENA – Tecnólogo en Programación de Software (abril 2026)
   
 ## 📬 Contacto
-- LinkedIn: www.linkedin.com/in/marcia-katerine-baquero-ruiz-4583293b8 
-- Email: marciabaquero322@gmail.com
+- LinkedIn: marcia-baquero-dev-full-stack
+- Email: marciaka.baqueror@gmail.com
   
 
 ## 📊 GitHub Stats
